@@ -17,7 +17,7 @@
 
 
     <div class="container my-3">
-        <h2>Jquery Ajax Data Table Example for BIT Sem3</h2>
+        <h2>Jquery Ajax Data Table Example for BIT Sem3 Test Edit</h2>
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary my-3" data-toggle="modal" data-target="#addusermodel">
             Add User
